@@ -18,7 +18,7 @@ Brindar una plataforma digital accesible y educativa que ayude a jóvenes asmát
 | Nombre | Rol | Responsabilidades principales |
 |--------|------|-------------------------------|
 | Rodrigo [Apellido] | Líder de Proyecto / Frontend Developer | Coordinación general, desarrollo del Landing Page y configuración de despliegue. |
-| [Integrante 2] | UX/UI Designer | Diseño de wireframes, mockups y prototipos en Figma. |
+| Leo | UX/UI Designer | Diseño de wireframes, mockups y prototipos en Figma. |
 | [Integrante 3] | Developer | Implementación de estructura HTML/CSS y control de versiones. |
 | [Integrante 4] | QA Tester | Pruebas de validación y documentación de aceptación (.feature). |
 
@@ -113,3 +113,4 @@ El código fuente y los materiales visuales no están destinados a distribución
 ---
 
 **© 2025 AsthmaControl Team — Universidad Peruana de Ciencias Aplicadas.**
+
